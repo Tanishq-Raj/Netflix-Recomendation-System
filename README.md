@@ -17,7 +17,7 @@ To run a Flask deployment tests, run the following command
 
 To run a deployment tests, click on the following link:
 
-[Netflix Recommender System App](https://hamzameer007.pythonanywhere.com/)
+[Netflix Recommender System App]
 
 
 ## Deployment
@@ -51,8 +51,8 @@ I'm a Full Stack Data Scientist
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.linkedin.com/in/hamza-meer)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-meer)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](www.linkedin.com/in/tanishq-raj)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/tanishq-raj)
 
 
 
